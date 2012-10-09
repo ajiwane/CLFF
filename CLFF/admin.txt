@@ -1,0 +1,3 @@
+userteam ka score_today=0 after each match day
+data upload from csv files
+substitute wali queries for score

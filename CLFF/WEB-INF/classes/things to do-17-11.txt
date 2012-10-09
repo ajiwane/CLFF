@@ -1,0 +1,16 @@
+select team
+query changes in setTransfer.java
+
+check only 1 goalie in Substitute table: add to the 3 triggers--done
+
+forgot password---done
+
+deadlines
+
+proper linking
+
+help-transfers n assists
+
+matchday hardcoded in showresults.jsp,take from db.
+
+make new password random
